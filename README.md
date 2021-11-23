@@ -9,7 +9,7 @@ Prior to my PhD, I received a Diploma in Geology from the Atacama University. Fo
 <pre>
 <b>An inventory of cryospheric landforms in the arid diagonal of South America (high Central Andes, Atacama region, Chile)
 </b>
-Ayôn García, Christopher Ulloa, Gonzalo Amigo, Juan PabloMilana, Catherine Medina
-<em>Quaternary International 20170</em>
+Ayôn García, Christopher Ulloa, Gonzalo Amigo, Juan Pablo Milana, Catherine Medina
+<em>Quaternary International 2017</em>
 Source: <a href="https://www.sciencedirect.com/science/article/pii/S1040618216310564">https://www.sciencedirect.com/science/article/pii/S1040618216310564</a>
 </pre>
